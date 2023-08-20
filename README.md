@@ -1,1 +1,1 @@
-My first readme
+Readme file on shell basics
